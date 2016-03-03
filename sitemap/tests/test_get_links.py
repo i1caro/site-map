@@ -49,4 +49,3 @@ def test_several_links():
     '#installing-a-parser',
     'theme.css',
   ]
-
